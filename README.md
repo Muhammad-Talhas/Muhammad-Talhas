@@ -14,11 +14,15 @@ Welcome to my GitHub! I'm a passionate and curious developer who loves building 
 - **Python** – Completed foundational learning including file handling, encryption, APIs, and libraries like NumPy and pandas.
 
 ### 💻 Core Skills
-- **Frontend Development:**
-  - HTML, CSS
-  - Tailwind CSS – Building responsive UIs with modern utility-first design.
-- **TypeScript** – Strongly typed JavaScript, ensuring scalable and error-free applications.
-- **Next.js** – Full-stack web applications with server-side rendering and routing.
+
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" />
+</p>
 
 ---
 
