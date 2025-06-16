@@ -1,55 +1,75 @@
-# 👋 Hi there, I'm Talha Mehtab!
+<div align="center">
+  
+# ✨ Talha Mehtab ✨  
+### Full Stack Developer | AI Learner & Python Enthusiast
 
-Welcome to my GitHub! I'm a passionate and curious developer who loves building web applications and exploring the world of Artificial Intelligence.
+![Typing Animation](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=500&color=6366F1&center=true&vCenter=true&width=500&lines=Building+Intelligent+Web+Apps;OpenAI+SDK+Expert;Next.js+%7C+TypeScript+%7C+Python;AI+Agents+Enthusiast;Full+Stack+Developer)
+
+</div>
 
 ---
 
-## 🚀 My Tech Journey So Far
+# 💫 About Me:
+🧑‍💻 Self-driven developer building clean, modern web applications  
+📚 Started with TypeScript and Next.js — now diving into Python & AI  
+🤖 Passionate about integrating AI into web solutions  
+🔐 Recently built a **Secure Data Encryption System** using Python & Streamlit  
+🌐 Familiar with full-stack development, API routes, and responsive UI/UX  
+🧪 Currently learning how to deploy and integrate AI/ML models with apps  
 
-### 🧠 Currently Exploring
-- **Artificial Intelligence (AI)** – Working on projects that involve AI tools and models.
-- **Machine Learning & Python** – Learning about data handling, model training, and real-world AI use cases.
+---
 
-### ✅ Recently Completed
-- **Python** – Completed foundational learning including file handling, encryption, APIs, and libraries like NumPy and pandas.
-
-### 💻 Core Skills
-
+# 💻 Tech Stack:
 <p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
 </p>
 
 ---
 
-## 🔨 Projects
-
-Here are a few projects I’ve built during my learning journey:
-
-- **📄 Resume Builder (HTML/CSS/JS)** – A simple app to generate static and dynamic resumes.
-- **✅ To-Do List App** – Task management using JavaScript and DOM manipulation.
-- **🌐 Portfolio Website** – Personal portfolio showcasing my work, built with Tailwind and Next.js.
-- **🛒 E-Commerce UI (Figma)** – UI design and layout planning for an online store.
-- **🔐 Secure Data Encryption System (Python + Streamlit)** – My latest Python-based app for secure data handling and encryption.
-
-> Check out my repositories for more!
+# 📂 Notable Projects:
+- 🔐 **Secure Data Encryption System** – Encrypt text using Python & Streamlit  
+- 📄 **Resume Generator** – Static & dynamic versions built with HTML/CSS/JS  
+- ✅ **To-Do List App** – DOM manipulation, CRUD functionality  
+- 🛒 **E-Commerce UI Design** – Figma UI planned and Tailwind coded  
+- 🌐 **Portfolio Website** – Built with Tailwind, deployed with Vercel  
 
 ---
 
-## 🌱 What's Next?
+<div align="center">
 
-I’m continuing to build my AI knowledge, explore APIs like OpenAI, and apply machine learning techniques to real-world problems. Stay tuned for more exciting projects!
+# 📊 GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=Muhammad-Talhas&theme=dark&hide_border=false&include_all_commits=true&count_private=true) &nbsp;&nbsp;&nbsp;&nbsp;![](https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Talhas&theme=dark&hide_border=false&layout=compact)
+![](https://streak-stats.demolab.com?user=Muhammad-Talhas&theme=dark&hide_border=false)
+
+</div>
 
 ---
 
-## 📫 Let’s Connect
+<div align="center">
 
-- **LinkedIn:** [your-link]
-- **Portfolio:** [your-link]
-- **Email:** [your-email]
+## 📫 Let's Connect!
 
-Thanks for visiting! 🙌
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/talha-mehtab-01369b33b/)  
+<!-- Add email badge below when you're ready to share one publicly -->
+
+</div>
+
+---
+
+<div align="center">
+  
+![snake gif](https://github.com/Muhammad-Talhas/Muhammad-Talhas/blob/output/github-snake-dark.svg)
+
+</div>
+
+<div align="center" style="margin-top: 2rem;">
+  <img src="https://komarev.com/ghpvc/?username=Muhammad-Talhas&label=Profile%20views&color=6366F1&style=flat" alt="Profile Views" />
+</div>
