@@ -45,15 +45,25 @@
 
 <div align="center">
 
-# 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=Muhammad-Talhas&theme=dark&hide_border=false&include_all_commits=true&count_private=true) &nbsp;&nbsp;&nbsp;&nbsp;![](https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Talhas&theme=dark&hide_border=false&layout=compact)
-![](https://streak-stats.demolab.com?user=Muhammad-Talhas&theme=dark&hide_border=false)
+## 📊 GitHub Stats
+
+<img
+  src="https://github-readme-stats.vercel.app/api?username=Muhammad-Talhas&show_icons=true&theme=dark&hide_border=true&cache_seconds=1800"
+  height="165"
+/>
+
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Talhas&layout=compact&theme=dark&hide_border=true&cache_seconds=1800"
+  height="165"
+/>
+
+<br/>
+
+<img
+  src="https://streak-stats.demolab.com?user=Muhammad-Talhas&theme=dark&hide_border=true"
+/>
 
 </div>
-
----
-
-<div align="center">
 
 ## 📫 Let's Connect!
 
