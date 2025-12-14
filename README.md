@@ -65,6 +65,9 @@
 
 </div>
 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Muhammad-Talhas&theme=dark&hide_border=true" />
+❌ Common mistake (don’t do this)
+
 ## 📫 Let's Connect!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/talha-mehtab-01369b33b/)  
