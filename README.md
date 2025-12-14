@@ -66,7 +66,6 @@
 </div>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Muhammad-Talhas&theme=dark&hide_border=true" />
-❌ Common mistake (don’t do this)
 
 ## 📫 Let's Connect!
 
