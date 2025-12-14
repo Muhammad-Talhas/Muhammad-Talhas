@@ -78,8 +78,7 @@
 
 <div align="center">
   
-![snake gif](https://github.com/Muhammad-Talhas/Muhammad-Talhas/blob/output/github-snake-dark.svg)
-
+![snake gif](https://raw.githubusercontent.com/Muhammad-Talhas/Muhammad-Talhas/output/github-snake-dark.svg)
 </div>
 
 <div align="center" style="margin-top: 2rem;">
