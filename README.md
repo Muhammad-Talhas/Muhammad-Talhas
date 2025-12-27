@@ -16,7 +16,6 @@
 ## 👨‍💻 About Me
 - 🤖 **Physical AI & Robotics:** Currently authoring a specialized textbook on **Humanoid Robotics** using Docusaurus.
 - 🧠 **AI Orchestration:** Expert in building LLM-powered apps using **OpenAI**, **Cohere**, and **HuggingFace**.
-- 🔎 **Vector Search:** Implementing high-performance retrieval systems with **Qdrant**.
 - 🛠️ **Full-Stack:** Crafting seamless experiences from **FastAPI/Node.js** backends to **Next.js** frontends.
 
 ---
@@ -33,6 +32,11 @@ This project serves as a deep-dive repository for the intersection of Artificial
 
 ## 🛠️ Technical Expertise
 
+### 🏗️ Programming Languages
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+
 ### 🤖 Artificial Intelligence & LLMs
 ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat&logo=openai&logoColor=white)
 ![Cohere](https://img.shields.io/badge/-Cohere-39594D?style=flat&logo=cohere&logoColor=white)
@@ -41,14 +45,15 @@ This project serves as a deep-dive repository for the intersection of Artificial
 ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 
 ### ⚙️ Backend & Databases
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![Qdrant](https://img.shields.io/badge/-Qdrant-FF4B4B?style=flat&logo=qdrant&logoColor=white)
+![Sanity](https://img.shields.io/badge/-Sanity-F03E2F?style=flat&logo=sanity&logoColor=white)
 
 ### 🖥️ Frontend & Tools
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 ![Docusaurus](https://img.shields.io/badge/-Docusaurus-3ECC5F?style=flat&logo=docusaurus&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
@@ -70,6 +75,7 @@ This project serves as a deep-dive repository for the intersection of Artificial
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/talha-mehtab-01369b33b/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Muhammad-Talhas)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
 
 </div>
 
