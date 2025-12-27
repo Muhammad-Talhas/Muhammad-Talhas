@@ -10,12 +10,12 @@
 ---
 
 # 💫 About Me:
-🧑‍💻 **Self-driven developer** building clean, modern web applications  <br>
+🧑‍💻 **Self-driven developer** building clean, modern web applications <br>
 📚 Started with **TypeScript and Next.js** — now diving into **Python & AI** <br>
-🤖 Passionate about integrating AI into web solutions  <br>
-🔐 Recently built a **Secure Data Encryption System** using Python & Streamlit  <br>
-🌐 Familiar with full-stack development, API routes, and responsive UI/UX  <br>
-🧪 Currently learning how to deploy and integrate **AI/ML models** with apps  
+🤖 Passionate about integrating AI into web solutions <br>
+🔐 Recently built a **Secure Data Encryption System** using Python & Streamlit <br>
+🌐 Familiar with full-stack development, API routes, and responsive UI/UX <br>
+🧪 Currently learning how to deploy and integrate **AI/ML models** with apps
 
 ---
 
