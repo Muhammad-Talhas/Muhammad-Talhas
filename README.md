@@ -17,6 +17,7 @@
 - 🤖 **Physical AI & Robotics:** Currently authoring a specialized textbook on **Humanoid Robotics** using Docusaurus.
 - 🧠 **AI Orchestration:** Expert in building LLM-powered apps using **OpenAI**, **Cohere**, and **HuggingFace**.
 - 🛠️ **Full-Stack:** Crafting seamless experiences from **FastAPI/Node.js** backends to **Next.js** frontends.
+- 🔎 **Vector Search:** Implementing high-performance retrieval systems with **Qdrant**.
 
 ---
 
@@ -44,27 +45,38 @@ This project serves as a deep-dive repository for the intersection of Artificial
 ![Chainlit](https://img.shields.io/badge/-Chainlit-00C7B7?style=flat&logo=chain&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 
-### ⚙️ Backend & Databases
+### ⚙️ Backend Development
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![Qdrant](https://img.shields.io/badge/-Qdrant-FF4B4B?style=flat&logo=qdrant&logoColor=white)
-![Sanity](https://img.shields.io/badge/-Sanity-F03E2F?style=flat&logo=sanity&logoColor=white)
+![RestAPI](https://img.shields.io/badge/-Rest_API-009688?style=flat&logo=fastapi&logoColor=white)
 
-### 🖥️ Frontend & Tools
+### 🖥️ Frontend & Documentation
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 ![Docusaurus](https://img.shields.io/badge/-Docusaurus-3ECC5F?style=flat&logo=docusaurus&logoColor=white)
+
+### 💾 Databases & CMS
+![Qdrant](https://img.shields.io/badge/-Qdrant-FF4B4B?style=flat&logo=qdrant&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Sanity](https://img.shields.io/badge/-Sanity-F03E2F?style=flat&logo=sanity&logoColor=white)
+
+### 🚀 DevOps & Tools
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
 
 ---
 
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Muhammad-Talhas&show_icons=true&theme=dark&hide_border=true&cache_seconds=1800" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Talhas&layout=compact&theme=dark&hide_border=true&cache_seconds=1800" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Muhammad-Talhas&show_icons=true&theme=dark&hide_border=false&count_private=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Talhas&layout=compact&theme=dark&hide_border=false" height="180" />
+
+  <br/>
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Muhammad-Talhas&theme=dark&hide_border=false" height="180" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Muhammad-Talhas&theme=dracula&margin-w=10" width="100%" />
 </div>
 
 ---
