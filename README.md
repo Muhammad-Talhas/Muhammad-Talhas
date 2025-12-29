@@ -67,12 +67,12 @@ This project serves as a deep-dive repository for the intersection of Artificial
 
 ---
 
-## 📊 GitHub Analytics
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Muhammad-Talhas&show_icons=true&theme=dark&hide_border=true&cache_seconds=1800) &nbsp;&nbsp; ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Talhas&layout=compact&theme=dark&hide_border=true&cache_seconds=1800)
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Muhammad-Talhas&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Talhas&layout=compact&theme=dark)
+![](https://streak-stats.demolab.com?user=Muhammad-Talhas&theme=dark&hide_border=true)
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Muhammad-Talhas&theme=dark)
+<br/>
 
 ---
 
