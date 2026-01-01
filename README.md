@@ -72,7 +72,7 @@ This project serves as a deep-dive repository for the intersection of Artificial
 <br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Talhas&layout=compact&theme=dark&hide_border=true)
 <br/>
-
+![](https://streak-stats.demolab.com?user=Muhammad-Talhas&theme=dark&hide_border=true&force_and_count_private=true)
 ---
 
 ## 🌐 Connect With Me
