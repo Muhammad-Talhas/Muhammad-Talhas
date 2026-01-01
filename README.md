@@ -72,20 +72,7 @@ This project serves as a deep-dive repository for the intersection of Artificial
 <br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Talhas&layout=compact&theme=dark&hide_border=true)
 <br/>
-<img
-  src="https://github-readme-stats.vercel.app/api?username=Muhammad-Talhas&show_icons=true&theme=dark&hide_border=true&cache_seconds=1800"
-  height="165"
-/>
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Talhas&layout=compact&theme=dark&hide_border=true&cache_seconds=1800"
-  height="165"
-/>
-<br/>
-<img
-  src="https://streak-stats.demolab.com?user=Muhammad-Talhas&theme=dark&hide_border=true"
-/>
-</div>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Muhammad-Talhas&theme=dark&hide_border=true" />
+
 ---
 
 ## 🌐 Connect With Me
