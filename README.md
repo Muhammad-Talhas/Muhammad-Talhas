@@ -68,7 +68,7 @@ This project serves as a deep-dive repository for the intersection of Artificial
 ---
 
 ## 📊 GitHub Ecosystem
-![](https://github-readme-stats.vercel.app/api?username=Muhammad-Talhas&show_icons=true&theme=dark&hide_border=true&count_private=true) 
+![](https://github-readme-stats-eight-theta.vercel.app/api?username=Muhammad-Talhas&show_icons=true&theme=dark&hide_border=true&count_private=true) 
 <br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Talhas&layout=compact&theme=dark&hide_border=true)
 <br/>
